@@ -1,0 +1,24 @@
+{
+  "name": "kloudio",
+  "version": "1.0.0",
+  "description": "Kloudio's NodeJS Sdk to define Kloud Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SathishRaju/kloudiojs.git"
+  },
+  "keywords": [
+    "Kloudio",
+    "Kloud.io",
+    "NodeJS"
+  ],
+  "author": "Sathish Raju <sathish.raju@kloud.io> (http://kloud.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SathishRaju/kloudiojs/issues"
+  },
+  "homepage": "https://github.com/SathishRaju/kloudiojs#readme"
+}
